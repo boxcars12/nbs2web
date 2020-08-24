@@ -1,0 +1,79 @@
+nbstechgroup
+http://www.nbstechgroup.com/
+
+3 websites - 3 style variations
+https://getbootstrap.com/docs/4.5/getting-started/introduction/
+4.5.2
+
+tv1- "product" by boostrap
+
+tv2-"jumbotron" by boostrap
+
+tv3-"navbar static" by boostrap
+
+
+
+-------------------------------------------------------
+
+colors
+
+7FACDC  - main blue (old site)
+
+-------------------------------------------------------
+
+
+V0
+<header>
+<company name> <navbar>
+
+<body>
+	<banner w/ img>
+	<content>
+
+<footer>
+	<redo navbar> <contact> <(optional) other links>
+
+
+
+-------------------------------------------------------
+
+	TV1
+	-index
+	-offerings (x3)
+	-services
+	-about us
+	-contact
+		COLORS
+		7FACDC  - main blue (old site)
+		
+
+	TV2a
+
+
+
+-------------------------------------------------------
+1 standard
+2 more business-y
+3 modern
+
+-------------------------------------------------------
+FONTS
+
+-------------------------------------------------------
+favicon (MISSING) #TODO
+copyright?
+-------------------------------------------------------
+
+
+nbs1cool
+7FACDC
+133254
+8D9AA8
+02010A
+165BA6
+
+
+
+good colors
+014966 - indigo dye
+143166 - space cadet

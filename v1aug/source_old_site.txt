@@ -1,0 +1,110 @@
+nbs tech group source
+http://www.nbstechgroup.com/
+-------------------------------------------------------
+logo
+favicon missing
+copyright missing
+-------------------------------------------------------
+7FACDC, d3ab73, e0bf8e
+-------------------------------------------------------
+NBS Tech Group
+-------------------------------------------------------
+Home
+
+NBS Tech Group (NBS) provides ethical, unbiased advice to its corporate customers.  We engage in consulting, audit and IT related sales and services to help businesses with their technology needs as we have for the past 25 plus years.
+
+Our focus is on doing it right. Customer outages are unacceptable to us. We diligently plan our work so with any upgrade or installation the customer downtime in minimal.  Audts are done with discretion and technical acumen not found in most auditors as we were infrastructure practitioners first.
+
+Our customers range from small businesses to Fortune 500 corporations and we approach both with the same unwavering commitment to excellence in doing the job right, the first time. Please let us know how we can help with your next technology project.
+-------------------------------------------------------
+Offerings
+
+Our offerings are guided by our basic principles and incorporates three key elements.
+
+Discover           NBS Tech Group staff works tirelessly to vet all the information so we understanding how the technological solution affects the business to create a well-defined, succinct, scope.
+
+Plan                    Plan the method methodically. Perfect planning perfects performance. Projects do not fail, people fail to plan projects properly.                
+
+Execute              Execution becomes trivial when proper discovery and planning occur prior to execution and the team collaborates and follows the plan.
+-------------------------------------------------------
+	Network
+
+IT organizations manage an array of applications and hardware platforms in their data centers. With respect to the network NBS Tech Group works with most brands to provide:
+
+Procurement Services-Price/contract Negotiations-Fulfillment
+Capacity Planning services for Network Sizing Including Cloud Migrations
+Network Documentation Services
+Network Managed Services
+Network Architecture and Design Services
+Network Segmentation Planning/Deployment
+
+
+	DataCenter
+
+Capacity planning is a lost art in today's complex IT world.  Many companies claim to provide capacity planning to the business units but fail to do so because they lack the data, tools or experience to do so.
+
+Our industry experts are capacity planners and business infrastructure experts. Our average tenured planner has 15+ years of capacity planning experience with global corporations.
+
+Many outages and infrastructure related problems can be averted by proper capacity planning. Many business related budget problems and capital plans can be easily resolved by proper capacity planning. Further, IT departments take the political hit when business units fail to deliver results because of an IT overbuild.  Capacity planning can allow all parties to understand the metrics of the decision making and hold all parties properly accountable for the decisions made.
+
+NBS Tech Group offers the following:
+
+Application or Hardware Capacity Planning Services including Asset Tracking
+Datacenter Design/Procurement/Fulfillment/Deployment
+Hybrid Services for DC/Cloud Integration or Migration
+
+
+	Security
+
+Security Products/Services
+
+NBS Tech Group offers many firewall/security services:
+
+Firewall Managed Service
+Firewall Rules/Configuration Maintenance
+Fulfillment Price Negotiations Service
+2 Factor Authentication Services
+CASB Contract negotiations/Fulfillment/Deployment
+Endpoint Security Contract negotiations/Fulfillment/Deployment
+Managed Security Programs
+
+
+-------------------------------------------------------
+Services
+
+NBS Tech Group offers a range of services related to a company's IT infrastructure:
+
+IT Audits-CISA on staff
+Telco/ISP/Carrier Audits-Price/Performance/SLA/Design Review
+Security CheckUps-Audit Firewall Rules and Policies and Configurations
+CASB-Review/Recommend/Fulfill/Deploy
+Advanced Network Deploymets-Firewall Replacements/Upgrades
+Network Monitoring-Troubleshooting Complex Network Issues
+
+-------------------------------------------------------
+About Us
+
+It has hard to believe 25+ years have passed since the founding of NBS Tech Group (NBS).
+We were founded on the principal of providing unwavering, ethical, unbiased advice to our clients.
+
+The market has moved considerably since our inception. The mainframe dominated, then the midrange, now the endpoint du jour. The idea of timesharing in the late 80's/early 90's is now fully operational in places like AWS/Azure and the like.Regardless of the technology, the principles which guide technology have not changed only the delivery medium.
+
+As part of our core mission, we are always interested in what is "right" for the customer. This is always seems ambiguous at first but with careful discovery, thoughtful conversations, and properly defining the objective it becomes crystal clear. Our ask of our customers is to be honest with us in all your communications so we do not waste each others time or efforts. Time is a precious commodity and we value yours and hope you value ours.
+
+We look forward to working with you on your next technology project. Let us know how we can help and even if we cannot help we may know someone who can help you.Have a great day !Peace,John Moran, Managing Partner, NBS Tech Group
+
+-------------------------------------------------------
+Contact us
+
+E-mail:    info@nbstechgroup.com
+
+Phone:    (978) 888-2040  
+
+Fax:       (978) 888-2044
+
+Mail:      NBS Tech Group, LLC
+             P.O. Box 4124
+             Westford MA 01886
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
