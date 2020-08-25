@@ -3,3 +3,6 @@ added favicon reference
 duplicated index to all pages 
 
 added text to About Us, Services
+---------------------------------
+
+added jpeg logo tag
