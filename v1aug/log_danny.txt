@@ -6,3 +6,10 @@ added text to About Us, Services
 ---------------------------------
 
 added jpeg logo tag
+
+---------------------------------
+
+changes to contact page
+
+added logo on all pages 
+
