@@ -10,6 +10,7 @@
   background-color: #1F4670;
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
+  font-size: 1.2rem;
 }
 .site-header a {
   color: #fff;
