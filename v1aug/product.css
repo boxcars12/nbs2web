@@ -56,7 +56,9 @@
   background-color: #e5e5e5;
 }
 
-
+.dropdown-menu {
+  background-color: #1F4670;
+}
 /*
  * Extra utilities
  */
