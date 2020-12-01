@@ -10,23 +10,23 @@ footer class="container py-3">
 	  <small class="d-block mb-3 text-muted">&copy; 1992-2020</small>
     </div>
     <div class="col-6 col-md align-self-center">
-      <h5>Home</h5>
+      <a class="nav-link" href="index.html"><h5>Home</h5></a>
 
     </div>
     <div class="col-6 col-md align-self-center">
-      <h5>Offerings</h5>
+      <a class="nav-link" href="offerings.html"><h5>Offerings</h5></a>
 
     </div>
     <div class="col-6 col-md align-self-center">
-      <h5>Services</h5>
+      <a class="nav-link" href="services.html"><h5>Services</h5></a>
 
     </div>
     <div class="col-6 col-md align-self-center">
-      <h5>About Us</h5>
+      <a class="nav-link" href="about_us.html"><h5>About Us</h5></a>
 
     </div>
     <div class="col-6 col-md align-self-center">
-      <h5>Contact</h5>
+      <a class="nav-link" href="contact.html"><h5>Contact</h5></a>
 
     </div>
   </div>

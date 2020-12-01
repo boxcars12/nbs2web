@@ -59,6 +59,11 @@
 .dropdown-menu {
   background-color: #1F4670;
 }
+}
+.dropdown-item a:hover {
+  color: #000;
+  text-decoration: none;
+}
 /*
  * Extra utilities
  */

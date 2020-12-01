@@ -17,9 +17,9 @@
                   Offerings
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  <a class="dropdown-item" href="Offerings.html">Network</a>
-                  <a class="dropdown-item" href="Offerings.html">DataCenter</a>
-                  <a class="dropdown-item" href="Offerings.html">Security</a>
+                  <a class="dropdown-item" href="offerings.html#network">Network</a>
+                  <a class="dropdown-item" href="offerings.html#datacenter">DataCenter</a>
+                  <a class="dropdown-item" href="offerings.html#security">Security</a>
                 </div>
               </li>
               <li class="nav-item">
