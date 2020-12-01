@@ -60,8 +60,8 @@
   background-color: #1F4670;
 }
 }
-.dropdown-item a:hover {
-  color: #000;
+.dropdown-item  {
+  background-color: #1F4670;
   text-decoration: none;
 }
 /*
