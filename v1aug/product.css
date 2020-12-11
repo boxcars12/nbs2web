@@ -20,6 +20,11 @@
   color: #fff;
   text-decoration: none;
 }
+/* add to header.txt */
+#offeringsDropDown a:hover{ 
+  color: #1F4670;
+  background-color: white;
+}
 
 /*
  * Dummy devices (replace them with your own or something else entirely!)
