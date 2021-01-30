@@ -87,3 +87,7 @@
 .overflow-hidden { overflow: hidden; }
 
 h5 {color: #1F4670;}
+
+ul {
+  line-height:200%
+}

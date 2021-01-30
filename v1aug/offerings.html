@@ -10,6 +10,7 @@
 	<link rel='icon' href='favicon.ico' type='image/x-icon'/ >
 	<!-- Bootstrap CSS CDN -->
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
@@ -33,6 +34,14 @@
     <!-- Custom styles for this template -->
     <link href="product.css" rel="stylesheet">
   </head>
+  <script> 
+    $(function() { 
+        AOS.init();
+    }); 
+    $(window).on('load', function() {
+        AOS.refresh();
+    });
+  </script>
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark site-header sticky-top py-1">
       <div class="container ">
@@ -71,21 +80,70 @@
 
 <div class="position-relative overflow-hidden p-12 p-lg-10  text-center bg-light" style=" background-image: url(offerings.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;">
 
-  <div class="col-md-6 p-lg-5 mx-auto my-5">
-    <h1 class="display-4 font-weight-normal">Offerings</h1>
+  <div class="container"> 
+    <div class="col-md-12 p-lg-2 mx-auto my-1">
+      <h1 class="display-4 font-weight-normal">Offerings</h1>
+      <br>  
+      <p class="lead font-weight-normal">Our offerings are guided by our basic principles and incorporates three key elements.</p>
+    </div>
+    <div class="col-md-12 p-lg-2 mx-auto my-1">
+      <h4 class="display-4 font-weight-normal">Discover</h4>
+      <p class="lead font-weight-normal">NBS Tech Group staff works tirelessly to vet all the information so we understanding how the technological solution affects the business to create a well-defined, succinct, scope.</p>
+    </div>
+    <div class="col-md-12 p-lg-2 mx-auto my-1">
+      <h4 class="display-4 font-weight-normal">Plan</h4>
+      <p class="lead font-weight-normal"> Plan the method methodically. Perfect planning perfects performance. Projects do not fail, people fail to plan projects properly.  </p>
+    </div>
+    <div class="col-md-12 p-lg-2 mx-auto my-1">
+      <h4 class="display-4 font-weight-normal">Execute</h4>
+      <p class="lead font-weight-normal">Execution becomes trivial when proper discovery and planning occur prior to execution and the team collaborates and follows the plan.</p>
+    </div>
+    <!-- --------------------- Network ------------------------- -->
+    <div class="col-md-12 p-lg-5 mx-auto my-4" data-aos="fade-up" data-aos-delay="400" id="network" >
+      <h2 class="display-4 font-weight-normal">Network</h2>
+      <p class="lead font-weight-normal">IT organizations manage an array of applications and hardware platforms in their data centers. With respect to the network NBS Tech Group works with most brands to provide:</p>
+      <br>
+      <ul style="text-align:left;">
+        <li>Procurement Services-Price/contract Negotiations-Fulfillment</li>
+        <li>Planning services for Network Sizing Including Cloud Migrations</li>
+        <li>Network Documentation Services</li>
+        <li>Network Managed Service</li>
+        <li>Network Segmentation Planning/Deployment</li>
+        <li>Network Architecture and Design Services</li>
+      </ul>
+    </div>
+     <!-- --------------------- Data Center ------------------------- -->
+    <div class="col-md-12 p-lg-7 mx-auto my-5" data-aos="fade-up" data-aos-delay="400" id="datacenter">
+      <h2 class="display-4 font-weight-normal">DataCenter</h2>
+      <p class="lead font-weight-normal">Capacity planning is a lost art in today's complex IT world.  Many companies claim to provide capacity planning to the business units but fail to do so because they lack the data, tools or experience to do so.</p>
+      <p class="lead font-weight-normal"> Our industry experts are capacity planners and business infrastructure experts. Our average tenured planner has 15+ years of capacity planning experience with global corporations.
+      <p class="lead font-weight-normal">Many outages and infrastructure related problems can be averted by proper capacity planning. Many business related budget problems and capital plans can be easily resolved by proper capacity planning. Further, IT departments take the political hit when business units fail to deliver results because of an IT overbuild.
+      Capacity planning can allow all parties to understand the metrics of the decision making and hold all parties properly accountable for the decisions made.</p>
     <br>
-    <p class="lead font-weight-normal">Our offerings are guided by our basic principles and incorporates three key elements.</p>
-    <h4 class="display-4 font-weight-normal">Discover</h4>
-    <p class="lead font-weight-normal">NBS Tech Group staff works tirelessly to vet all the information so we understanding how the technological solution affects the business to create a well-defined, succinct, scope.</p>
-    <h4 class="display-4 font-weight-normal">Plan</h4>
-    <p class="lead font-weight-normal"> Plan the method methodically. Perfect planning perfects performance. Projects do not fail, people fail to plan projects properly.  </p>
-    <h4 class="display-4 font-weight-normal">Execute</h4>
-    <p class="lead font-weight-normal">Execution becomes trivial when proper discovery and planning occur prior to execution and the team collaborates and follows the plan.</p>
-
-    <h2 class="display-4 font-weight-normal">Network</h2>
-
+      <p class="lead font-weight-normal"2 style="text-align: left;">NBS Tech Group offers the following:</p>
+    <br>
+      <ul style="text-align:left;">
+        <li>Application or Hardware Capacity Planning Services including Asset Tracking</li>
+        <li>Datacenter Design/Procurement/Fulfillment/Deployment</li>
+        <li>Hybrid Services for DC/Cloud Integration or Migration</li>
+      </ul>
   </div>
-
+  <!-- --------------------- Security ------------------------- -->
+  
+  <div class="col-md-12 p-lg-7 mx-auto my-4" data-aos="fade-up" data-aos-delay="400" id="security">
+    <h2 class="display-4 font-weight-normal">Security</h2>
+    <br>
+    <p class="lead font-weight-normal" style="text-align:center;">NBS Tech Group offers many firewall/security services:</p>
+    <ul style="text-align:left;">
+      <li>Firewall Managed Service</li>
+      <li>Firewall Rules/Configuration Maintenance</li>
+      <li>Fulfillment Price Negotiations Service</li>
+      <li>2 Factor Authentication Services</li>
+      <li>CASB Contract negotiations/Fulfillment/Deployment</li>
+      <li>Endpoint Security Contract negotiations/Fulfillment/Deployment</li>
+      <li>Managed Security Programs</li>
+    </ul>
+  </div>
 </div>
 
 
@@ -121,4 +179,5 @@
 </footer>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
       <script>window.jQuery || document.write('<script src="../assets/js/vendor/jquery.slim.min.js"><\/script>')</script><script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+      <script src = "https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
 </html>
