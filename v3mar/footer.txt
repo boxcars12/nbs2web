@@ -1,0 +1,48 @@
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h3>NBS Tech Group</h3>
+            <p>
+              225 Stedman St # 6 <br>
+              Lowell, MA 01851<br>
+              United States <br><br>
+              <strong>Phone:</strong> +1 978 888-2040<br>
+              <strong>Email:</strong> info@nbstechgroup.com<br>
+            </p>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.html">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="about.html">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="services.html">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="offerings.html">Offerings</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="contact.html">Contact</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Our Social Networks</h4>
+            <p>Follow us on our favorite social media networks!</p>
+            <div class="social-links mt-3">
+              <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+              <a href="#" class="github"><i class="bx bxl-github"></i></a>
+              <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container footer-bottom clearfix">
+      <div class="copyright">
+        &copy; Copyright 1992-2021 <strong><span>NBS Tech Group</span></strong>. All Rights Reserved
+      </div>
+    </div>
+  </footer><!-- End Footer -->
