@@ -134,7 +134,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 55px;
 }
 
 /*--------------------------------------------------------------
@@ -636,6 +636,10 @@ section {
 /*--------------------------------------------------------------
 # Why Us
 --------------------------------------------------------------*/
+/* #why-us { 
+  background-color: white;
+} */
+
 .why-us .content {
   padding: 60px 100px 0 100px;
 }
@@ -678,7 +682,7 @@ section {
 
 .why-us .accordion-list li {
   padding: 20px;
-  background: #fff;
+  background: #f3f5fa;
   border-radius: 4px;
 }
 
